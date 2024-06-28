@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace AttributesSamples
 {
-    internal class DBMethodAttribute
+    [AttributeUsage(AttributeTargets.Method|AttributeTargets.Class)]
+    internal class DBMethodAttribute:Attribute
     {
+        public DBMethodAttribute(string a)
+        {
+            this.message = a;
+        }
+
+        public string message { get; private set; }
     }
 }
