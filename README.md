@@ -1,6 +1,6 @@
-# Khóa học .NET cơ bản
+# .NET
 
-Link đến khóa học: https://www.youtube.com/playlist?list=PLRLJQuuRRcFlaITD5F6XKQJxOt8QgCNAg
+
 
 ## Mục tiêu: 
 - Xây dựng nền tảng cơ bản cho một .NET developer để có thể làm việc độc lập hoặc key member trong một nhóm.
@@ -13,8 +13,6 @@ Khóa học sẽ bao gồm 4 nhóm nội dung cơ bản:
 - Các chủ đề nâng cao: Expression tree, socket programming, multi-threading programming...
 - Bài tập áp dụng kiến thức đã học kết hợp tìm hiểu các mẫu thiết kế (design pattern).
 
-## Nội dung:
-*Lưu ý: kế hoạch và nội dung của các bài học trong tương lai có thể thay đổi.*
 
 ### Đã hoàn thành
 - Cài đặt Visual Studio và viết chương trình .NET đầu tiên 
@@ -54,4 +52,3 @@ Khóa học sẽ bao gồm 4 nhóm nội dung cơ bản:
 - Expression tree
 - Bài tập (viết một thư viện đơn giản tương tự Entity Framework)
 
-Các video bài tập có thể được cập nhật thêm sau khi hoàn thành khóa học.
